@@ -1,0 +1,1210 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0779552693572831
+Tree 0:
+ (* (* (sqrt (min 0.07224 N)) (- (/ V 2) (*
+     1 V))) (/ (sqrt (min PN PW)) (max (/ 1 2)
+     (max 0 CR))))
+
+Global Best Individuals up to Generation 0
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0779552693572831
+Tree 0:
+ (* (* (sqrt (min 0.07224 N)) (- (/ V 2) (*
+     1 V))) (/ (sqrt (min PN PW)) (max (/ 1 2)
+     (max 0 CR))))
+Size: 25
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.07814078039356347
+Tree 0:
+ (* (* (sqrt (max PW PN)) (- (/ V 2) (* 1
+     V))) (/ (sqrt (min PN PW)) (max (/ 1 2) (max
+     0 CR))))
+
+Global Best Individuals up to Generation 1
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0779552693572831
+Tree 0:
+ (* (* (sqrt (min 0.07224 N)) (- (/ V 2) (*
+     1 V))) (/ (sqrt (min PN PW)) (max (/ 1 2)
+     (max 0 CR))))
+Size: 25
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.061435863766823556
+Tree 0:
+ (* (* (sqrt (max PW PN)) (- (/ V 2) (* 1
+     V))) (sqrt CR))
+
+Global Best Individuals up to Generation 2
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.061435863766823556
+Tree 0:
+ (* (* (sqrt (max PW PN)) (- (/ V 2) (* 1
+     V))) (sqrt CR))
+Size: 15
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.04407745337774102
+Tree 0:
+ (min (/ (sqrt (min (/ PN i) (sqrt i))) (*
+     (/ (sqrt 0) (+ M V)) (+ (min i 2) (- N 1))))
+     (min (* (/ (/ V N) (sqrt CR)) (- 0 CR)) (*
+         (max V V) (* (* M 1) (* (max (- N N) (sqrt
+         PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 3
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.04407745337774102
+Tree 0:
+ (min (/ (sqrt (min (/ PN i) (sqrt i))) (*
+     (/ (sqrt 0) (+ M V)) (+ (min i 2) (- N 1))))
+     (min (* (/ (/ V N) (sqrt CR)) (- 0 CR)) (*
+         (max V V) (* (* M 1) (* (max (- N N) (sqrt
+         PW)) (* (- i 2) (/ 2 M)))))))
+Size: 56
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.03845091392207343
+Tree 0:
+ (* (* (min CR 2) (- (/ V 2) (* 1 V))) (/
+     (sqrt (/ (/ V M) (min i N))) (max (/ 1 2)
+     (min i 1))))
+
+Global Best Individuals up to Generation 4
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.03845091392207343
+Tree 0:
+ (* (* (min CR 2) (- (/ V 2) (* 1 V))) (/
+     (sqrt (/ (/ V M) (min i N))) (max (/ 1 2)
+     (min i 1))))
+Size: 28
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.028593859051253383
+Tree 0:
+ (* (* (min CR 2) (- (/ V 2) (* 1 V))) (/
+     (/ M i) V))
+
+Global Best Individuals up to Generation 5
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.028593859051253383
+Tree 0:
+ (* (* (min CR 2) (- (/ V 2) (* 1 V))) (/
+     (/ M i) V))
+Size: 17
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.042732855154729875
+Tree 0:
+ (min (/ (sqrt (min (sqrt PW) (sqrt i))) (*
+     (/ (sqrt 0) (+ M V)) (+ (min i 2) (- N 1))))
+     (min (* (/ (/ V N) (sqrt CR)) (- 0 CR)) (*
+         (max V V) (* (* M 1) (* (max (- N N) (sqrt
+         PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 6
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.028593859051253383
+Tree 0:
+ (* (* (min CR 2) (- (/ V 2) (* 1 V))) (/
+     (/ M i) V))
+Size: 17
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.04001696567723981
+Tree 0:
+ (min (/ (sqrt (min (/ PN i) (sqrt i))) (*
+     (* (* 0.37785 1) (* (max (- N N) (sqrt PW))
+         (* (- i 2) (/ PW M)))) (+ (min i 2) (- N
+     1)))) (min (* (/ (/ V N) (sqrt CR)) (- 0
+     CR)) (* (max V V) (* (* M 1) (* (max (/ 0
+     N) (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 7
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.028593859051253383
+Tree 0:
+ (* (* (min CR 2) (- (/ V 2) (* 1 V))) (/
+     (/ M i) V))
+Size: 17
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.029828137182266012
+Tree 0:
+ (min (/ (sqrt (sqrt (min 0.07224 N))) (*
+     (/ (sqrt 0) (sqrt PW)) (/ (min i 2) (- M
+     M)))) (min (* (/ V i) (- 0 CR)) (* (max V
+     V) (* (* M (min i 2)) (* (max (- N N) (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 8
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.028593859051253383
+Tree 0:
+ (* (* (min CR 2) (- (/ V 2) (* 1 V))) (/
+     (/ M i) V))
+Size: 17
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.029481288011090203
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (sqrt 0) (sqrt PW))
+     (/ (min i 2) (- M M)))) (min (* (/ V i) (-
+     0 CR)) (* (max V V) (* (* M (min i 2)) (*
+     (max (- N N) (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 9
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.028593859051253383
+Tree 0:
+ (* (* (min CR 2) (- (/ V 2) (* 1 V))) (/
+     (/ M i) V))
+Size: 17
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.028528567490886947
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (* (- i 2) (/ PW
+     2)) (sqrt PW)) (/ (min i 2) (- M M)))) (min
+     (* (/ V i) (- 0 CR)) (* (max V V) (* (* M
+     (min i 2)) (* (max (- N N) (sqrt PW)) (*
+     (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 10
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.028528567490886947
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (* (- i 2) (/ PW
+     2)) (sqrt PW)) (/ (min i 2) (- M M)))) (min
+     (* (/ V i) (- 0 CR)) (* (max V V) (* (* M
+     (min i 2)) (* (max (- N N) (sqrt PW)) (*
+     (- i 2) (/ 2 M)))))))
+Size: 54
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.027805259074403694
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (sqrt 0) (sqrt PW))
+     (/ (min i 2) (- M M)))) (min (* (/ V i) (-
+     0 CR)) (* (max V V) (* (* CR (/ M M)) (*
+     (max (- N N) (sqrt PW)) (* (- i 2) (sqrt
+     PW)))))))
+
+Global Best Individuals up to Generation 11
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.027805259074403694
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (sqrt 0) (sqrt PW))
+     (/ (min i 2) (- M M)))) (min (* (/ V i) (-
+     0 CR)) (* (max V V) (* (* CR (/ M M)) (*
+     (max (- N N) (sqrt PW)) (* (- i 2) (sqrt
+     PW)))))))
+Size: 48
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.02195279257349692
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (sqrt 0) (sqrt PW))
+     (/ (min i 2) (- M M)))) (min (* (/ (/ V i)
+     i) (- 0 CR)) (* (max V V) (* (* CR (/ M M))
+     (* (max (- N N) (sqrt PW)) (* (- i 2) (sqrt
+         PW)))))))
+
+Global Best Individuals up to Generation 12
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.02195279257349692
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (sqrt 0) (sqrt PW))
+     (/ (min i 2) (- M M)))) (min (* (/ (/ V i)
+     i) (- 0 CR)) (* (max V V) (* (* CR (/ M M))
+     (* (max (- N N) (sqrt PW)) (* (- i 2) (sqrt
+         PW)))))))
+Size: 50
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.018769920564648736
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (sqrt 0) (sqrt PW))
+     (/ (min i 2) (- M M)))) (min (* (/ (/ V i)
+     i) (- 0 CR)) (* (* (max N (/ (* M N) V))
+     V) (* (* CR (/ M M)) (* (max (- N N) (sqrt
+     PW)) (* (- i 2) (sqrt PW)))))))
+
+Global Best Individuals up to Generation 13
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.018769920564648736
+Tree 0:
+ (min (/ (sqrt CR) (* (/ (sqrt 0) (sqrt PW))
+     (/ (min i 2) (- M M)))) (min (* (/ (/ V i)
+     i) (- 0 CR)) (* (* (max N (/ (* M N) V))
+     V) (* (* CR (/ M M)) (* (max (- N N) (sqrt
+     PW)) (* (- i 2) (sqrt PW)))))))
+Size: 56
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.010827284934520134
+Tree 0:
+ (min (/ (sqrt (min (/ V V) (sqrt i))) (*
+     (/ PN V) (* (* PW 1) (* (max (- N N) (sqrt
+     PW)) (min (/ PN i) (sqrt i)))))) (min (*
+     (/ (/ 0.33786 N) (sqrt CR)) (max V V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 14
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.010827284934520134
+Tree 0:
+ (min (/ (sqrt (min (/ V V) (sqrt i))) (*
+     (/ PN V) (* (* PW 1) (* (max (- N N) (sqrt
+     PW)) (min (/ PN i) (sqrt i)))))) (min (*
+     (/ (/ 0.33786 N) (sqrt CR)) (max V V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 63
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.01081380919993466
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (* PW 1) (* (max (- N N) (sqrt PW)) (min
+         (/ PN i) (sqrt i)))))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max V V)) (* (max V V) (*
+     (* M (min i 2)) (* (max CR (sqrt PW)) (*
+     (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 15
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.01081380919993466
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (* PW 1) (* (max (- N N) (sqrt PW)) (min
+         (/ PN i) (sqrt i)))))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max V V)) (* (max V V) (*
+     (* M (min i 2)) (* (max CR (sqrt PW)) (*
+     (- i 2) (/ 2 M)))))))
+Size: 62
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.01081380919993466
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (* PW 1) (* (max (- N N) (sqrt PW)) (min
+         (/ PN i) (sqrt i)))))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max V V)) (* (max V V) (*
+     (* M (min i 2)) (* (max CR (sqrt PW)) (*
+     (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 16
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.01081380919993466
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (* PW 1) (* (max (- N N) (sqrt PW)) (min
+         (/ PN i) (sqrt i)))))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max V V)) (* (max V V) (*
+     (* M (min i 2)) (* (max CR (sqrt PW)) (*
+     (- i 2) (/ 2 M)))))))
+Size: 62
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.010811721068298578
+Tree 0:
+ (min (/ (sqrt (min (/ (sqrt 1) 0) 1)) (*
+     (/ PN V) (* (* PW 1) (* (max (- N N) (sqrt
+     PW)) (min (/ PN i) (sqrt i)))))) (min (*
+     (/ (/ 0.33786 N) (sqrt CR)) (max V V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (-
+     i 2)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 17
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.010811721068298578
+Tree 0:
+ (min (/ (sqrt (min (/ (sqrt 1) 0) 1)) (*
+     (/ PN V) (* (* PW 1) (* (max (- N N) (sqrt
+     PW)) (min (/ PN i) (sqrt i)))))) (min (*
+     (/ (/ 0.33786 N) (sqrt CR)) (max V V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (-
+     i 2)) (* (- i 2) (/ 2 M)))))))
+Size: 64
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.01077233192340543
+Tree 0:
+ (min (/ i (* (/ PN V) (* (* PW 1) (* (max
+     (- N N) (sqrt PW)) (min (/ PN i) (sqrt i))))))
+     (min (* (/ (/ 0.33786 N) (sqrt CR)) (max
+         (* PN M) V)) (* (max V V) (* (* M (min i
+         2)) (* (max CR (sqrt PW)) (* (- i 2) (/ 2
+         M)))))))
+
+Global Best Individuals up to Generation 18
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.01077233192340543
+Tree 0:
+ (min (/ i (* (/ PN V) (* (* PW 1) (* (max
+     (- N N) (sqrt PW)) (min (/ PN i) (sqrt i))))))
+     (min (* (/ (/ 0.33786 N) (sqrt CR)) (max
+         (* PN M) V)) (* (max V V) (* (* M (min i
+         2)) (* (max CR (sqrt PW)) (* (- i 2) (/ 2
+         M)))))))
+Size: 59
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.010520164260306095
+Tree 0:
+ (min (/ (sqrt (* (* (sqrt 1) M) M)) 0.47027)
+     (min (* (/ (/ 0.33786 N) (sqrt CR)) (max
+         V V)) (* (max V V) (* (* M (min i 2)) (*
+         (max CR (- i 2)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 19
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.010520164260306095
+Tree 0:
+ (min (/ (sqrt (* (* (sqrt 1) M) M)) 0.47027)
+     (min (* (/ (/ 0.33786 N) (sqrt CR)) (max
+         V V)) (* (max V V) (* (* M (min i 2)) (*
+         (max CR (- i 2)) (* (- i 2) (/ 2 M)))))))
+Size: 44
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.010514247289044047
+Tree 0:
+ (min (/ (sqrt (min (/ (sqrt 1) 0) 1)) (*
+     (/ PN V) (* (max (- N N) (sqrt PW)) (min
+     (/ PN i) (sqrt i))))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max V V)) (* (max V V) (*
+     (* M (min i 2)) (* (max CR (- i 2)) (* (-
+     i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 20
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.010514247289044047
+Tree 0:
+ (min (/ (sqrt (min (/ (sqrt 1) 0) 1)) (*
+     (/ PN V) (* (max (- N N) (sqrt PW)) (min
+     (/ PN i) (sqrt i))))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max V V)) (* (max V V) (*
+     (* M (min i 2)) (* (max CR (- i 2)) (* (-
+     i 2) (/ 2 M)))))))
+Size: 60
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.009800888957763078
+Tree 0:
+ (min (* (sqrt (max CR (sqrt PW))) V) (min
+     (* (/ (/ 0.33786 N) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (min i 2)) (* (max CR
+         (- i 2)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 21
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.009800888957763078
+Tree 0:
+ (min (* (sqrt (max CR (sqrt PW))) V) (min
+     (* (/ (/ 0.33786 N) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (min i 2)) (* (max CR
+         (- i 2)) (* (- i 2) (/ 2 M)))))))
+Size: 42
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.009800888957763078
+Tree 0:
+ (min (* (sqrt (max CR (sqrt PW))) V) (min
+     (* (/ (/ 0.33786 N) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (min i 2)) (* (max CR
+         (- i 2)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 22
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.009800888957763078
+Tree 0:
+ (min (* (sqrt (max CR (sqrt PW))) V) (min
+     (* (/ (/ 0.33786 N) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (min i 2)) (* (max CR
+         (- i 2)) (* (- i 2) (/ 2 M)))))))
+Size: 42
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.009800888957763078
+Tree 0:
+ (min (* (sqrt (max CR (sqrt PW))) V) (min
+     (* (/ (/ 0.33786 N) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (min i 2)) (* (max CR
+         (- i 2)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 23
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.009800888957763078
+Tree 0:
+ (min (* (sqrt (max CR (sqrt PW))) V) (min
+     (* (/ (/ 0.33786 N) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (min i 2)) (* (max CR
+         (- i 2)) (* (- i 2) (/ 2 M)))))))
+Size: 42
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.009294762802624132
+Tree 0:
+ (min (/ (sqrt (min (/ N (sqrt i)) 1)) (*
+     (/ PN V) (* (- i 2) (/ 2 CR)))) (min (* (/
+     (/ 0.33786 N) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 24
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.009294762802624132
+Tree 0:
+ (min (/ (sqrt (min (/ N (sqrt i)) 1)) (*
+     (/ PN V) (* (- i 2) (/ 2 CR)))) (min (* (/
+     (/ 0.33786 N) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 53
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005674139640568256
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max (* M (sqrt 1)) V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 25
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005674139640568256
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max (* M (sqrt 1)) V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005674139640568256
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max (* M (sqrt 1)) V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 26
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005674139640568256
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max (* M (sqrt 1)) V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.006136499206859778
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (/ 0.33786
+     N)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 27
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005674139640568256
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 1)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ 0.33786
+     N) (sqrt CR)) (max (* M (sqrt 1)) V)) (*
+     (max V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005623266572827594
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* 1 (min i 2)) (* (max CR (/ 0.33786
+     N)) (* (- i 2) 2))))))
+
+Global Best Individuals up to Generation 28
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005623266572827594
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* 1 (min i 2)) (* (max CR (/ 0.33786
+     N)) (* (- i 2) 2))))))
+Size: 54
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005623266572827594
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* 1 (min i 2)) (* (max CR (/ 0.33786
+     N)) (* (- i 2) 2))))))
+
+Global Best Individuals up to Generation 29
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.005623266572827594
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* 1 (min i 2)) (* (max CR (/ 0.33786
+     N)) (* (- i 2) 2))))))
+Size: 54
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.00536507516081626
+Tree 0:
+ (min (/ (* M (sqrt 1)) (* (/ PN V) (* (-
+     i 2) (/ M CR)))) (min (* (/ (/ 0.33786 N)
+     (sqrt CR)) (max (* M (sqrt 1)) V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (/ 0.33786
+     N)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 30
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.00536507516081626
+Tree 0:
+ (min (/ (* M (sqrt 1)) (* (/ PN V) (* (-
+     i 2) (/ M CR)))) (min (* (/ (/ 0.33786 N)
+     (sqrt CR)) (max (* M (sqrt 1)) V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (/ 0.33786
+     N)) (* (- i 2) (/ 2 M)))))))
+Size: 54
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.004779696487119641
+Tree 0:
+ (min (/ (* M (sqrt 1)) (* (/ PN V) (* (-
+     i 2) (/ M CR)))) (min (* (/ (/ 0.33786 N)
+     (sqrt CR)) (max (* M (/ 2 2)) V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 31
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.004779696487119641
+Tree 0:
+ (min (/ (* M (sqrt 1)) (* (/ PN V) (* (-
+     i 2) (/ M CR)))) (min (* (/ (/ 0.33786 N)
+     (sqrt CR)) (max (* M (/ 2 2)) V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 54
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003866564647296292
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 32
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003866564647296292
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.004779696487119641
+Tree 0:
+ (min (/ (* M (sqrt 1)) (* (/ PN V) (* (-
+     i 2) (/ M CR)))) (min (* (/ (/ 0.33786 N)
+     (sqrt CR)) (max (* M (/ 2 2)) V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 33
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003866564647296292
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.004779696487119641
+Tree 0:
+ (min (/ (* M (sqrt 1)) (* (/ PN V) (* (-
+     i 2) (/ M CR)))) (min (* (/ (/ 0.33786 N)
+     (sqrt CR)) (max (* M (/ 2 2)) V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 34
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003866564647296292
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.004151386401942078
+Tree 0:
+ (min (/ M (* (/ PN V) (* (- i 2) (/ M CR))))
+     (min (* (/ (/ (/ 0.33786 N) (sqrt CR)) (sqrt
+         CR)) (max V V)) (* (max V V) (* (* M (min
+         i 2)) (* (max CR (sqrt PW)) (* (- i 2) (/
+         2 M)))))))
+
+Global Best Individuals up to Generation 35
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003866564647296292
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.004151386401942078
+Tree 0:
+ (min (/ M (* (/ PN V) (* (- i 2) (/ M CR))))
+     (min (* (/ (/ (/ 0.33786 N) (sqrt CR)) (sqrt
+         CR)) (max V V)) (* (max V V) (* (* M (min
+         i 2)) (* (max CR (sqrt PW)) (* (- i 2) (/
+         2 M)))))))
+
+Global Best Individuals up to Generation 36
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003866564647296292
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.004664103676341457
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 37
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003866564647296292
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (min i 2)) (* (max CR (sqrt
+     PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 38
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 56
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 39
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 56
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 40
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 56
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 41
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 56
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 42
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003635069723034424
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 56
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003469818240695201
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 43
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003469818240695201
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 56
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 44
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 45
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003469818240695201
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 46
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003469818240695201
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 47
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003469818240695201
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 48
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003469818240695201
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 49
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.003469818240695201
+Tree 0:
+ (min (/ (sqrt (min (/ V V) 2)) (* (/ PN V)
+     (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/ 0.33786
+     N) (sqrt CR)) (sqrt CR)) (max V V)) (* (max
+     V V) (* (* M (* (sqrt 1) 0.89856)) (* (max
+     CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Global Best Individuals up to Generation 50
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.0033039260335940247
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+Size: 55
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: -0.004724084506022772
+Tree 0:
+ (min (/ (sqrt (min (sqrt 1) 2)) (* (/ PN
+     V) (* (- i 2) (/ 2 CR)))) (min (* (/ (/ (/
+     0.33786 N) (sqrt CR)) (sqrt CR)) (max V V))
+     (* (max V V) (* (* M (* (sqrt 1) 0.89856))
+         (* (max CR (sqrt PW)) (* (- i 2) (/ 2 M)))))))
+
+Plans:{'<M=10.5,CV=0.8,PN=0.00,PW=0.15,CR=0.1>': [0.0, 4.653403402464764, 15.153403402464765, 27.07242712263464, 38.99145084280451, 50.910474562974386, 62.82949828314426, 74.74852200331414, 86.66754572348401, 98.58656944365389, 110.50559316382376, 122.42461688399364, 134.3436406041635, 146.2626643243334, 158.1816880445033, 170.10071176467318, 182.01973548484307, 193.93875920501296, 205.85778292518285, 205.85778292518285], '<M=21.0,CV=0.6,PN=0.00,PW=0.15,CR=1.0>': [0.0, 0.0, 21.0, 42.425707116050965, 63.85141423210193, 85.27712134815289, 106.70282846420385, 128.1285355802548, 149.55424269630578, 170.97994981235675], '<M=10.5,CV=0.8,PN=0.15,PW=0.15,CR=1.0>': [0.0, 0.0, 10.5, 21.141902372016986, 31.783804744033972, 42.42570711605096, 53.067609488067944, 63.70951186008493, 74.35141423210192, 84.9933166041189, 95.63521897613589, 106.27712134815287, 116.91902372016986, 127.56092609218685, 138.20282846420383, 148.84473083622083, 159.48663320823783, 170.12853558025483, 180.77043795227183, 191.41234032428883], '<M=21.0,CV=0.6,PN=0.15,PW=0.00,CR=0.1>': [0.0, 16.8, 37.8, 61.06437712542469, 84.16437712542469, 106.5643771254247, 128.6143771254247, 150.4543771254247, 172.1543771254247, 193.7543771254247], '<M=10.5,CV=0.8,PN=0.00,PW=0.15,CR=1.0>': [0.0, 0.0, 10.5, 21.141902372016986, 31.783804744033972, 42.42570711605096, 53.067609488067944, 63.70951186008493, 74.35141423210192, 84.9933166041189, 95.63521897613589, 106.27712134815287, 116.91902372016986, 127.56092609218685, 138.20282846420383, 148.84473083622083, 159.48663320823783, 170.12853558025483, 180.77043795227183, 191.41234032428883], '<M=21.0,CV=0.8,PN=0.00,PW=0.00,CR=0.1>': [0.0, 17.980830499433743, 38.98083049943374, 63.0, 89.6760948806795, 116.352189761359, 143.0282846420385, 169.704379522718, 196.3804744033975, 196.3804744033975], '<M=21.0,CV=0.8,PN=0.15,PW=0.00,CR=1.0>': [0.0, 0.0, 21.0, 42.56760948806795, 64.1352189761359, 85.70282846420385, 107.27043795227179, 128.83804744033972, 150.40565692840767, 171.9732664164756], '<M=10.5,CV=0.4,PN=0.15,PW=0.00,CR=1.0>': [0.0, 0.0, 10.5, 21.070951186008493, 31.641902372016986, 42.21285355802548, 52.78380474403397, 63.354755930042465, 73.92570711605097, 84.49665830205947, 95.06760948806797, 105.63856067407647, 116.20951186008497, 126.78046304609347, 137.35141423210197, 147.92236541811047, 158.49331660411897, 169.06426779012747, 179.63521897613597, 190.20617016214447], '<M=21.0,CV=0.8,PN=0.15,PW=0.15,CR=1.0>': [0.0, 0.0, 21.0, 42.56760948806795, 64.1352189761359, 85.70282846420385, 107.27043795227179, 128.83804744033972, 150.40565692840767, 171.9732664164756], '<M=21.0,CV=0.4,PN=0.00,PW=0.00,CR=0.5>': [0.0, 13.452076248584362, 34.45207624858436, 56.01968573665231, 77.58729522472026, 99.15490471278821, 120.72251420085615, 142.2901236889241, 163.85773317699204, 185.42534266506], '<M=21.0,CV=0.4,PN=0.15,PW=0.00,CR=0.1>': [0.0, 18.2, 39.2, 61.70958475028313, 84.10958475028313, 106.04291808361647, 127.74291808361647, 149.30291808361648, 170.76958475028314, 192.16958475028315], '<M=21.0,CV=0.6,PN=0.00,PW=0.00,CR=0.5>': [0.0, 9.678114372876541, 30.678114372876543, 52.529528604978466, 74.3809428370804, 96.23235706918233, 118.08377130128426, 139.93518553338617, 161.7865997654881, 183.63801399759], '<M=10.5,CV=0.8,PN=0.00,PW=0.00,CR=0.5>': [0.0, 2.952076248584361, 13.452076248584362, 24.235880992618338, 35.019685736652306, 45.80349048068628, 56.58729522472025, 67.37109996875422, 78.1549047127882, 88.93870945682217, 99.72251420085614, 110.50631894489011, 121.29012368892408, 132.07392843295807, 142.85773317699204, 153.641537921026, 164.42534266506, 175.20914740909396, 185.99295215312793, 196.7767568971619], '<M=10.5,CV=0.8,PN=0.15,PW=0.00,CR=1.0>': [0.0, 0.0, 10.5, 21.141902372016986, 31.783804744033972, 42.42570711605096, 53.067609488067944, 63.70951186008493, 74.35141423210192, 84.9933166041189, 95.63521897613589, 106.27712134815287, 116.91902372016986, 127.56092609218685, 138.20282846420383, 148.84473083622083, 159.48663320823783, 170.12853558025483, 180.77043795227183, 191.41234032428883], '<M=21.0,CV=0.6,PN=0.00,PW=0.15,CR=0.5>': [0.0, 9.678114372876541, 30.678114372876543, 52.529528604978466, 74.3809428370804, 96.23235706918233, 118.08377130128426, 139.93518553338617, 161.7865997654881, 183.63801399759], '<M=21.0,CV=0.6,PN=0.15,PW=0.15,CR=0.1>': [0.0, 12.230105103697147, 33.23010510369715, 58.43010510369715, 81.53010510369714, 103.93010510369714, 125.98010510369714, 147.82010510369716, 169.52010510369715, 191.12010510369714], '<M=21.0,CV=0.6,PN=0.15,PW=0.00,CR=0.5>': [0.0, 0.0, 21.0, 42.851414232101924, 64.70282846420385, 86.55424269630578, 108.40565692840771, 130.25707116050964, 152.10848539261156, 173.95989962471347], '<M=21.0,CV=0.8,PN=0.00,PW=0.00,CR=1.0>': [0.0, 0.0, 21.0, 42.56760948806795, 64.1352189761359, 85.70282846420385, 107.27043795227179, 128.83804744033972, 150.40565692840767, 171.9732664164756], '<M=21.0,CV=0.8,PN=0.00,PW=0.15,CR=0.1>': [0.0, 9.306806804929527, 30.30680680492953, 56.982901685609036, 83.65899656628854, 110.33509144696804, 137.01118632764752, 163.68728120832702, 190.36337608900652, 190.36337608900652], '<M=10.5,CV=0.4,PN=0.15,PW=0.15,CR=0.5>': [0.0, 3.5, 14.0, 24.641902372016986, 35.28380474403397, 45.92570711605096, 56.567609488067944, 67.20951186008493, 77.85141423210192, 88.4933166041189, 99.13521897613589, 109.77712134815287, 120.41902372016986, 131.06092609218686, 141.70282846420386, 152.34473083622086, 162.98663320823786, 173.62853558025486, 184.27043795227186, 194.91234032428886], '<M=21.0,CV=0.8,PN=0.15,PW=0.15,CR=0.5>': [0.0, 0.0, 21.0, 43.1352189761359, 65.2704379522718, 87.40565692840771, 109.54087590454361, 131.6760948806795, 153.8113138568154, 175.94653283295128], '<M=10.5,CV=0.8,PN=0.00,PW=0.00,CR=0.1>': [0.0, 8.990415249716872, 19.49041524971687, 31.409438969886747, 43.328462690056625, 55.2474864102265, 67.16651013039638, 79.08553385056625, 91.00455757073613, 102.923581290906, 114.84260501107588, 126.76162873124575, 138.68065245141565, 150.59967617158554, 162.51869989175543, 174.43772361192532, 186.3567473320952, 198.2757710522651, 198.2757710522651, 198.2757710522651], '<M=21.0,CV=0.4,PN=0.00,PW=0.00,CR=0.1>': [0.0, 19.49041524971687, 40.490415249716875, 63.0, 86.83804744033975, 110.6760948806795, 134.51414232101925, 158.352189761359, 182.19023720169875, 206.0282846420385], '<M=10.5,CV=0.6,PN=0.15,PW=0.15,CR=0.5>': [0.0, 0.0, 10.5, 21.212853558025483, 31.925707116050965, 42.638560674076444, 53.351414232101924, 64.0642677901274, 74.77712134815289, 85.48997490617838, 96.20282846420386, 106.91568202222935, 117.62853558025483, 128.3413891382803, 139.05424269630578, 149.76709625433125, 160.47994981235672, 171.1928033703822, 181.90565692840767, 192.61851048643314], '<M=21.0,CV=0.4,PN=0.00,PW=0.00,CR=1.0>': [0.0, 5.904152497168722, 26.904152497168724, 48.187957241202696, 69.47176198523667, 90.75556672927064, 112.03937147330461, 133.32317621733858, 154.60698096137256, 175.89078570540653], '<M=10.5,CV=0.6,PN=0.00,PW=0.00,CR=0.1>': [0.0, 9.367811437287655, 19.867811437287656, 31.432079227415063, 42.99634701754247, 54.56061480766988, 66.12488259779728, 77.68915038792468, 89.25341817805209, 100.81768596817949, 112.38195375830689, 123.9462215484343, 135.5104893385617, 147.07475712868913, 158.63902491881655, 170.20329270894396, 181.76756049907138, 193.3318282891988, 204.8960960793262, 204.8960960793262], '<M=10.5,CV=0.6,PN=0.15,PW=0.00,CR=0.5>': [0.0, 0.0, 10.5, 21.212853558025483, 31.925707116050965, 42.638560674076444, 53.351414232101924, 64.0642677901274, 74.77712134815289, 85.48997490617838, 96.20282846420386, 106.91568202222935, 117.62853558025483, 128.3413891382803, 139.05424269630578, 149.76709625433125, 160.47994981235672, 171.1928033703822, 181.90565692840767, 192.61851048643314], '<M=10.5,CV=0.8,PN=0.00,PW=0.00,CR=1.0>': [0.0, 0.0, 10.5, 21.141902372016986, 31.783804744033972, 42.42570711605096, 53.067609488067944, 63.70951186008493, 74.35141423210192, 84.9933166041189, 95.63521897613589, 106.27712134815287, 116.91902372016986, 127.56092609218685, 138.20282846420383, 148.84473083622083, 159.48663320823783, 170.12853558025483, 180.77043795227183, 191.41234032428883], '<M=10.5,CV=0.4,PN=0.00,PW=0.15,CR=0.5>': [0.0, 6.726038124292181, 17.22603812429218, 27.867940496309167, 38.50984286832615, 49.15174524034314, 59.793647612360125, 70.43554998437712, 81.0774523563941, 91.71935472841109, 102.36125710042808, 113.00315947244506, 123.64506184446205, 134.28696421647905, 144.92886658849605, 155.57076896051305, 166.21267133253005, 176.85457370454705, 187.49647607656405, 198.13837844858105], '<M=21.0,CV=0.4,PN=0.15,PW=0.15,CR=0.5>': [0.0, 7.0, 28.0, 49.56760948806795, 71.13521897613589, 92.70282846420383, 114.27043795227178, 135.83804744033972, 157.40565692840767, 178.9732664164756], '<M=21.0,CV=0.8,PN=0.00,PW=0.15,CR=1.0>': [0.0, 0.0, 21.0, 42.56760948806795, 64.1352189761359, 85.70282846420385, 107.27043795227179, 128.83804744033972, 150.40565692840767, 171.9732664164756], '<M=21.0,CV=0.8,PN=0.00,PW=0.15,CR=0.5>': [0.0, 5.904152497168722, 26.904152497168724, 49.03937147330463, 71.17459044944053, 93.30980942557643, 115.44502840171234, 137.58024737784822, 159.7154663539841, 181.85068533012], '<M=10.5,CV=0.6,PN=0.00,PW=0.15,CR=0.5>': [0.0, 4.8390571864382705, 15.339057186438271, 26.051910744463754, 36.76476430248923, 47.47761786051471, 58.19047141854019, 68.90332497656568, 79.61617853459117, 90.32903209261666, 101.04188565064214, 111.75473920866763, 122.46759276669312, 133.1804463247186, 143.89329988274406, 154.60615344076953, 165.319006998795, 176.03186055682048, 186.74471411484595, 197.45756767287142], '<M=21.0,CV=0.8,PN=0.15,PW=0.00,CR=0.1>': [0.0, 15.399999999999999, 36.4, 60.419169500566255, 84.21916950056625, 107.08583616723291, 129.48583616723292, 151.60583616723292, 173.53916950056626, 195.33916950056627], '<M=21.0,CV=0.4,PN=0.15,PW=0.00,CR=0.5>': [0.0, 7.0, 28.0, 49.56760948806795, 71.13521897613589, 92.70282846420383, 114.27043795227178, 135.83804744033972, 157.40565692840767, 178.9732664164756], '<M=21.0,CV=0.4,PN=0.15,PW=0.00,CR=1.0>': [0.0, 0.0, 21.0, 42.28380474403397, 63.567609488067944, 84.85141423210192, 106.13521897613589, 127.41902372016986, 148.70282846420383, 169.9866332082378], '<M=21.0,CV=0.6,PN=0.00,PW=0.15,CR=0.1>': [0.0, 12.230105103697147, 33.23010510369715, 58.48717626420678, 83.7442474247164, 109.00131858522603, 134.25838974573568, 159.51546090624532, 184.77253206675496, 184.77253206675496], '<M=10.5,CV=0.6,PN=0.00,PW=0.15,CR=1.0>': [0.0, 0.0, 10.5, 21.10642677901274, 31.71285355802548, 42.31928033703822, 52.925707116050965, 63.53213389506371, 74.13856067407644, 84.74498745308918, 95.35141423210192, 105.95784101111465, 116.56426779012739, 127.17069456914012, 137.77712134815286, 148.3835481271656, 158.98997490617833, 169.59640168519107, 180.2028284642038, 190.80925524321654], '<M=10.5,CV=0.8,PN=0.15,PW=0.15,CR=0.5>': [0.0, 0.0, 10.5, 21.283804744033976, 32.06760948806795, 42.851414232101924, 53.635218976135896, 64.41902372016986, 75.20282846420383, 85.9866332082378, 96.77043795227178, 107.55424269630575, 118.33804744033972, 129.1218521843737, 139.90565692840767, 150.68946167244164, 161.4732664164756, 172.25707116050958, 183.04087590454355, 193.82468064857753], '<M=10.5,CV=0.6,PN=0.15,PW=0.00,CR=1.0>': [0.0, 0.0, 10.5, 21.10642677901274, 31.71285355802548, 42.31928033703822, 52.925707116050965, 63.53213389506371, 74.13856067407644, 84.74498745308918, 95.35141423210192, 105.95784101111465, 116.56426779012739, 127.17069456914012, 137.77712134815286, 148.3835481271656, 158.98997490617833, 169.59640168519107, 180.2028284642038, 190.80925524321654], '<M=10.5,CV=0.6,PN=0.15,PW=0.15,CR=0.1>': [0.0, 6.115052551848573, 16.615052551848574, 28.17932034197598, 39.72932034197598, 50.92932034197598, 61.95432034197598, 72.87432034197597, 83.72432034197597, 94.52432034197597, 105.28682034197597, 116.0201536753093, 126.7301536753093, 137.42106276621837, 148.09606276621838, 158.75760122775685, 169.40760122775686, 180.04760122775684, 190.67885122775684, 201.30238063952154], '<M=10.5,CV=0.6,PN=0.15,PW=0.00,CR=0.1>': [0.0, 8.4, 18.9, 30.464267790127405, 42.014267790127406, 53.21426779012741, 64.23926779012741, 75.15926779012742, 86.00926779012741, 96.80926779012741, 107.57176779012741, 118.30510112346074, 129.01510112346077, 139.70601021436985, 150.38101021436987, 161.04254867590834, 171.69254867590834, 182.33254867590833, 192.96379867590832, 203.58732808767303], '<M=10.5,CV=0.4,PN=0.15,PW=0.00,CR=0.1>': [0.0, 9.1, 19.6, 30.80951186008494, 42.00951186008494, 52.97617852675161, 63.82617852675161, 74.60617852675162, 85.33951186008495, 96.03951186008496, 106.71451186008495, 117.3700674156405, 128.0100674156405, 138.63734014291322, 149.2540068095799, 159.8616991172722, 170.4616991172722, 181.05503245060552, 191.64253245060553, 202.224885391782], '<M=10.5,CV=0.8,PN=0.15,PW=0.00,CR=0.5>': [0.0, 0.0, 10.5, 21.283804744033976, 32.06760948806795, 42.851414232101924, 53.635218976135896, 64.41902372016986, 75.20282846420383, 85.9866332082378, 96.77043795227178, 107.55424269630575, 118.33804744033972, 129.1218521843737, 139.90565692840767, 150.68946167244164, 161.4732664164756, 172.25707116050958, 183.04087590454355, 193.82468064857753], '<M=21.0,CV=0.8,PN=0.00,PW=0.00,CR=0.5>': [0.0, 5.904152497168722, 26.904152497168724, 49.03937147330463, 71.17459044944053, 93.30980942557643, 115.44502840171234, 137.58024737784822, 159.7154663539841, 181.85068533012], '<M=21.0,CV=0.4,PN=0.00,PW=0.15,CR=0.1>': [0.0, 15.153403402464765, 36.15340340246476, 59.99145084280451, 83.82949828314426, 107.66754572348401, 131.50559316382376, 155.3436406041635, 179.18168804450326, 203.019735484843], '<M=21.0,CV=0.8,PN=0.15,PW=0.15,CR=0.1>': [0.0, 9.306806804929527, 30.30680680492953, 56.90680680492953, 80.70680680492953, 103.57347347159619, 125.9734734715962, 148.0934734715962, 170.02680680492955, 191.82680680492956], '<M=10.5,CV=0.8,PN=0.15,PW=0.15,CR=0.1>': [0.0, 4.653403402464764, 15.153403402464765, 27.07242712263464, 38.972427122634635, 50.405760455967965, 61.60576045596797, 72.66576045596797, 83.63242712263464, 94.53242712263464, 105.38242712263464, 116.19353823374576, 126.97353823374576, 137.7280836882912, 148.46141702162453, 159.17680163700913, 169.87680163700912, 180.5634683036758, 191.2384683036758, 201.90317418602874], '<M=21.0,CV=0.4,PN=0.15,PW=0.15,CR=0.1>': [0.0, 15.153403402464765, 36.15340340246476, 59.95340340246476, 82.35340340246476, 104.2867367357981, 125.9867367357981, 147.5467367357981, 169.01340340246477, 190.41340340246478], '<M=10.5,CV=0.8,PN=0.00,PW=0.15,CR=0.5>': [0.0, 2.952076248584361, 13.452076248584362, 24.235880992618338, 35.019685736652306, 45.80349048068628, 56.58729522472025, 67.37109996875422, 78.1549047127882, 88.93870945682217, 99.72251420085614, 110.50631894489011, 121.29012368892408, 132.07392843295807, 142.85773317699204, 153.641537921026, 164.42534266506, 175.20914740909396, 185.99295215312793, 196.7767568971619], '<M=21.0,CV=0.6,PN=0.15,PW=0.15,CR=1.0>': [0.0, 0.0, 21.0, 42.425707116050965, 63.85141423210193, 85.27712134815289, 106.70282846420385, 128.1285355802548, 149.55424269630578, 170.97994981235675], '<M=10.5,CV=0.4,PN=0.15,PW=0.15,CR=0.1>': [0.0, 7.576701701232382, 18.07670170123238, 29.286213561317318, 40.48621356131732, 51.45288022798399, 62.30288022798399, 73.08288022798399, 83.81621356131733, 94.51621356131733, 105.19121356131733, 115.84676911687288, 126.48676911687288, 137.11404184414562, 147.7307085108123, 158.3384008185046, 168.9384008185046, 179.53173415183792, 190.11923415183793, 200.7015870930144], '<M=10.5,CV=0.6,PN=0.00,PW=0.15,CR=0.1>': [0.0, 6.115052551848573, 16.615052551848574, 28.17932034197598, 39.74358813210339, 51.3078559222308, 62.87212371235821, 74.43639150248562, 86.00065929261302, 97.56492708274043, 109.12919487286783, 120.69346266299523, 132.25773045312263, 143.82199824325005, 155.38626603337747, 166.95053382350488, 178.5148016136323, 190.07906940375972, 201.64333719388713, 201.64333719388713], '<M=21.0,CV=0.6,PN=0.15,PW=0.15,CR=0.5>': [0.0, 0.0, 21.0, 42.851414232101924, 64.70282846420385, 86.55424269630578, 108.40565692840771, 130.25707116050964, 152.10848539261156, 173.95989962471347], '<M=10.5,CV=0.4,PN=0.15,PW=0.15,CR=1.0>': [0.0, 0.0, 10.5, 21.070951186008493, 31.641902372016986, 42.21285355802548, 52.78380474403397, 63.354755930042465, 73.92570711605097, 84.49665830205947, 95.06760948806797, 105.63856067407647, 116.20951186008497, 126.78046304609347, 137.35141423210197, 147.92236541811047, 158.49331660411897, 169.06426779012747, 179.63521897613597, 190.20617016214447], '<M=10.5,CV=0.4,PN=0.00,PW=0.00,CR=1.0>': [0.0, 2.952076248584361, 13.452076248584362, 24.023027434592855, 34.59397862060135, 45.16492980660984, 55.735880992618334, 66.30683217862683, 76.87778336463533, 87.44873455064383, 98.01968573665233, 108.59063692266083, 119.16158810866933, 129.73253929467782, 140.30349048068632, 150.87444166669482, 161.44539285270332, 172.01634403871182, 182.58729522472032, 193.15824641072882], '<M=21.0,CV=0.8,PN=0.15,PW=0.00,CR=0.5>': [0.0, 0.0, 21.0, 43.1352189761359, 65.2704379522718, 87.40565692840771, 109.54087590454361, 131.6760948806795, 153.8113138568154, 175.94653283295128], '<M=21.0,CV=0.6,PN=0.00,PW=0.00,CR=0.1>': [0.0, 18.73562287457531, 39.73562287457531, 63.00000000000001, 88.25707116050962, 113.51414232101925, 138.7712134815289, 164.02828464203853, 189.28535580254817, 189.28535580254817], '<M=21.0,CV=0.6,PN=0.00,PW=0.00,CR=1.0>': [0.0, 0.0, 21.0, 42.425707116050965, 63.85141423210193, 85.27712134815289, 106.70282846420385, 128.1285355802548, 149.55424269630578, 170.97994981235675], '<M=10.5,CV=0.6,PN=0.00,PW=0.00,CR=0.5>': [0.0, 4.8390571864382705, 15.339057186438271, 26.051910744463754, 36.76476430248923, 47.47761786051471, 58.19047141854019, 68.90332497656568, 79.61617853459117, 90.32903209261666, 101.04188565064214, 111.75473920866763, 122.46759276669312, 133.1804463247186, 143.89329988274406, 154.60615344076953, 165.319006998795, 176.03186055682048, 186.74471411484595, 197.45756767287142], '<M=21.0,CV=0.4,PN=0.00,PW=0.15,CR=0.5>': [0.0, 13.452076248584362, 34.45207624858436, 56.01968573665231, 77.58729522472026, 99.15490471278821, 120.72251420085615, 142.2901236889241, 163.85773317699204, 185.42534266506], '<M=10.5,CV=0.4,PN=0.00,PW=0.00,CR=0.5>': [0.0, 6.726038124292181, 17.22603812429218, 27.867940496309167, 38.50984286832615, 49.15174524034314, 59.793647612360125, 70.43554998437712, 81.0774523563941, 91.71935472841109, 102.36125710042808, 113.00315947244506, 123.64506184446205, 134.28696421647905, 144.92886658849605, 155.57076896051305, 166.21267133253005, 176.85457370454705, 187.49647607656405, 198.13837844858105], '<M=10.5,CV=0.4,PN=0.00,PW=0.15,CR=1.0>': [0.0, 2.952076248584361, 13.452076248584362, 24.023027434592855, 34.59397862060135, 45.16492980660984, 55.735880992618334, 66.30683217862683, 76.87778336463533, 87.44873455064383, 98.01968573665233, 108.59063692266083, 119.16158810866933, 129.73253929467782, 140.30349048068632, 150.87444166669482, 161.44539285270332, 172.01634403871182, 182.58729522472032, 193.15824641072882], '<M=10.5,CV=0.4,PN=0.00,PW=0.15,CR=0.1>': [0.0, 7.576701701232382, 18.07670170123238, 29.286213561317318, 40.495725421402256, 51.70523728148719, 62.91474914157213, 74.12426100165708, 85.33377286174202, 96.54328472182696, 107.75279658191191, 118.96230844199685, 130.1718203020818, 141.38133216216676, 152.5908440222517, 163.80035588233665, 175.0098677424216, 186.21937960250654, 197.42889146259148, 208.63840332267642], '<M=10.5,CV=0.4,PN=0.15,PW=0.00,CR=0.5>': [0.0, 3.5, 14.0, 24.641902372016986, 35.28380474403397, 45.92570711605096, 56.567609488067944, 67.20951186008493, 77.85141423210192, 88.4933166041189, 99.13521897613589, 109.77712134815287, 120.41902372016986, 131.06092609218686, 141.70282846420386, 152.34473083622086, 162.98663320823786, 173.62853558025486, 184.27043795227186, 194.91234032428886], '<M=21.0,CV=0.6,PN=0.15,PW=0.00,CR=1.0>': [0.0, 0.0, 21.0, 42.425707116050965, 63.85141423210193, 85.27712134815289, 106.70282846420385, 128.1285355802548, 149.55424269630578, 170.97994981235675], '<M=10.5,CV=0.6,PN=0.00,PW=0.00,CR=1.0>': [0.0, 0.0, 10.5, 21.10642677901274, 31.71285355802548, 42.31928033703822, 52.925707116050965, 63.53213389506371, 74.13856067407644, 84.74498745308918, 95.35141423210192, 105.95784101111465, 116.56426779012739, 127.17069456914012, 137.77712134815286, 148.3835481271656, 158.98997490617833, 169.59640168519107, 180.2028284642038, 190.80925524321654], '<M=21.0,CV=0.4,PN=0.15,PW=0.15,CR=1.0>': [0.0, 0.0, 21.0, 42.28380474403397, 63.567609488067944, 84.85141423210192, 106.13521897613589, 127.41902372016986, 148.70282846420383, 169.9866332082378], '<M=21.0,CV=0.4,PN=0.00,PW=0.15,CR=1.0>': [0.0, 5.904152497168722, 26.904152497168724, 48.187957241202696, 69.47176198523667, 90.75556672927064, 112.03937147330461, 133.32317621733858, 154.60698096137256, 175.89078570540653], '<M=10.5,CV=0.6,PN=0.15,PW=0.15,CR=1.0>': [0.0, 0.0, 10.5, 21.10642677901274, 31.71285355802548, 42.31928033703822, 52.925707116050965, 63.53213389506371, 74.13856067407644, 84.74498745308918, 95.35141423210192, 105.95784101111465, 116.56426779012739, 127.17069456914012, 137.77712134815286, 148.3835481271656, 158.98997490617833, 169.59640168519107, 180.2028284642038, 190.80925524321654], '<M=10.5,CV=0.4,PN=0.00,PW=0.00,CR=0.1>': [0.0, 9.745207624858436, 20.245207624858438, 31.454719484943375, 42.66423134502831, 53.87374320511325, 65.08325506519819, 76.29276692528313, 87.50227878536808, 98.71179064545302, 109.92130250553797, 121.13081436562291, 132.34032622570786, 143.5498380857928, 154.75934994587774, 165.9688618059627, 177.17837366604763, 188.38788552613258, 199.59739738621752, 199.59739738621752], '<M=10.5,CV=0.8,PN=0.15,PW=0.00,CR=0.1>': [0.0, 7.699999999999999, 18.2, 30.119023720169874, 42.019023720169876, 53.452357053503206, 64.65235705350321, 75.71235705350321, 86.67902372016988, 97.57902372016989, 108.42902372016988, 119.240134831281, 130.020134831281, 140.77468028582646, 151.50801361915978, 162.2233982345444, 172.92339823454438, 183.61006490121105, 194.28506490121106, 204.949770783564]}
+
+Objectives:{'<M=10.5,CV=0.8,PN=0.00,PW=0.15,CR=0.1>': 27.43762483060312, '<M=21.0,CV=0.6,PN=0.00,PW=0.15,CR=1.0>': 94.54097899301863, '<M=10.5,CV=0.8,PN=0.15,PW=0.15,CR=1.0>': 55.771480025507245, '<M=21.0,CV=0.6,PN=0.15,PW=0.00,CR=0.1>': 16.82486479476372, '<M=10.5,CV=0.8,PN=0.00,PW=0.15,CR=1.0>': 60.056173950929434, '<M=21.0,CV=0.8,PN=0.00,PW=0.00,CR=0.1>': 24.477621366390906, '<M=21.0,CV=0.8,PN=0.15,PW=0.00,CR=1.0>': 97.01475745769427, '<M=10.5,CV=0.4,PN=0.15,PW=0.00,CR=1.0>': 28.618367357095405, '<M=21.0,CV=0.8,PN=0.15,PW=0.15,CR=1.0>': 113.6344278889647, '<M=21.0,CV=0.4,PN=0.00,PW=0.00,CR=0.5>': 27.717895110787147, '<M=21.0,CV=0.4,PN=0.15,PW=0.00,CR=0.1>': 12.082709438329244, '<M=21.0,CV=0.6,PN=0.00,PW=0.00,CR=0.5>': 40.61470021698011, '<M=10.5,CV=0.8,PN=0.00,PW=0.00,CR=0.5>': 27.84817615280553, '<M=10.5,CV=0.8,PN=0.15,PW=0.00,CR=1.0>': 43.84450495788197, '<M=21.0,CV=0.6,PN=0.00,PW=0.15,CR=0.5>': 63.54960854251927, '<M=21.0,CV=0.6,PN=0.15,PW=0.15,CR=0.1>': 32.43934054470092, '<M=21.0,CV=0.6,PN=0.15,PW=0.00,CR=0.5>': 46.795723178584346, '<M=21.0,CV=0.8,PN=0.00,PW=0.00,CR=1.0>': 82.90862595368681, '<M=21.0,CV=0.8,PN=0.00,PW=0.15,CR=0.1>': 39.66086771042207, '<M=10.5,CV=0.4,PN=0.15,PW=0.15,CR=0.5>': 28.757151143048198, '<M=21.0,CV=0.8,PN=0.15,PW=0.15,CR=0.5>': 72.44588446777404, '<M=10.5,CV=0.8,PN=0.00,PW=0.00,CR=0.1>': 15.630798408237197, '<M=21.0,CV=0.4,PN=0.00,PW=0.00,CR=0.1>': 12.297661738494003, '<M=10.5,CV=0.6,PN=0.15,PW=0.15,CR=0.5>': 33.53676538825138, '<M=21.0,CV=0.4,PN=0.00,PW=0.00,CR=1.0>': 43.436802995323916, '<M=10.5,CV=0.6,PN=0.00,PW=0.00,CR=0.1>': 11.494397299050467, '<M=10.5,CV=0.6,PN=0.15,PW=0.00,CR=0.5>': 21.886714862326222, '<M=10.5,CV=0.8,PN=0.00,PW=0.00,CR=1.0>': 39.70670286458453, '<M=10.5,CV=0.4,PN=0.00,PW=0.15,CR=0.5>': 34.10207395325014, '<M=21.0,CV=0.4,PN=0.15,PW=0.15,CR=0.5>': 54.10505946976346, '<M=21.0,CV=0.8,PN=0.00,PW=0.15,CR=1.0>': 109.37722970778754, '<M=21.0,CV=0.8,PN=0.00,PW=0.15,CR=0.5>': 72.51543092690096, '<M=10.5,CV=0.6,PN=0.00,PW=0.15,CR=0.5>': 38.80149728067648, '<M=21.0,CV=0.8,PN=0.15,PW=0.00,CR=0.1>': 21.670503182438154, '<M=21.0,CV=0.4,PN=0.15,PW=0.00,CR=0.5>': 36.146723802317446, '<M=21.0,CV=0.4,PN=0.15,PW=0.00,CR=1.0>': 63.99746767309124, '<M=21.0,CV=0.6,PN=0.00,PW=0.15,CR=0.1>': 34.65559401259776, '<M=10.5,CV=0.6,PN=0.00,PW=0.15,CR=1.0>': 53.13961856236948, '<M=10.5,CV=0.8,PN=0.15,PW=0.15,CR=0.5>': 38.36384957477908, '<M=10.5,CV=0.6,PN=0.15,PW=0.00,CR=1.0>': 35.55685997431685, '<M=10.5,CV=0.6,PN=0.15,PW=0.15,CR=0.1>': 21.015740734855665, '<M=10.5,CV=0.6,PN=0.15,PW=0.00,CR=0.1>': 9.534322934283239, '<M=10.5,CV=0.4,PN=0.15,PW=0.00,CR=0.1>': 6.682471417298057, '<M=10.5,CV=0.8,PN=0.15,PW=0.00,CR=0.5>': 27.283330296467426, '<M=21.0,CV=0.8,PN=0.00,PW=0.00,CR=0.5>': 51.690490293233964, '<M=21.0,CV=0.4,PN=0.00,PW=0.15,CR=0.1>': 28.10671316169993, '<M=21.0,CV=0.8,PN=0.15,PW=0.15,CR=0.1>': 36.88748252104046, '<M=10.5,CV=0.8,PN=0.15,PW=0.15,CR=0.1>': 24.140508545832972, '<M=21.0,CV=0.4,PN=0.15,PW=0.15,CR=0.1>': 27.974211789739044, '<M=10.5,CV=0.8,PN=0.00,PW=0.15,CR=0.5>': 43.756351961529276, '<M=21.0,CV=0.6,PN=0.15,PW=0.15,CR=1.0>': 96.24542636522584, '<M=10.5,CV=0.4,PN=0.15,PW=0.15,CR=0.1>': 18.360002448453283, '<M=10.5,CV=0.6,PN=0.00,PW=0.15,CR=0.1>': 24.53815656396461, '<M=21.0,CV=0.6,PN=0.15,PW=0.15,CR=0.5>': 62.139790125697445, '<M=10.5,CV=0.4,PN=0.15,PW=0.15,CR=1.0>': 40.11616943056231, '<M=10.5,CV=0.4,PN=0.00,PW=0.00,CR=1.0>': 21.114620904249193, '<M=21.0,CV=0.8,PN=0.15,PW=0.00,CR=0.5>': 56.70556898096112, '<M=21.0,CV=0.6,PN=0.00,PW=0.00,CR=0.1>': 19.324279720855582, '<M=21.0,CV=0.6,PN=0.00,PW=0.00,CR=1.0>': 63.73319929242416, '<M=10.5,CV=0.6,PN=0.00,PW=0.00,CR=0.5>': 21.542960417108226, '<M=21.0,CV=0.4,PN=0.00,PW=0.15,CR=0.5>': 53.4011705133369, '<M=10.5,CV=0.4,PN=0.00,PW=0.00,CR=0.5>': 14.573377394380355, '<M=10.5,CV=0.4,PN=0.00,PW=0.15,CR=1.0>': 46.88703423604818, '<M=10.5,CV=0.4,PN=0.00,PW=0.15,CR=0.1>': 21.447655855892695, '<M=10.5,CV=0.4,PN=0.15,PW=0.00,CR=0.5>': 16.806159123796043, '<M=21.0,CV=0.6,PN=0.15,PW=0.00,CR=1.0>': 79.37269703010307, '<M=10.5,CV=0.6,PN=0.00,PW=0.00,CR=1.0>': 30.80951135063337, '<M=21.0,CV=0.4,PN=0.15,PW=0.15,CR=1.0>': 81.53139647106042, '<M=21.0,CV=0.4,PN=0.00,PW=0.15,CR=1.0>': 79.88622278212196, '<M=10.5,CV=0.6,PN=0.15,PW=0.15,CR=1.0>': 47.35081908135582, '<M=10.5,CV=0.4,PN=0.00,PW=0.00,CR=0.1>': 7.912584764406196, '<M=10.5,CV=0.8,PN=0.15,PW=0.00,CR=0.1>': 12.628821062628681}
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Time: PT24M9.9678138S

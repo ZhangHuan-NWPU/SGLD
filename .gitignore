@@ -13,3 +13,7 @@ gurobi.lic
 !/src/main/java/ec/app/UAR/util/rules.xlsx
 /results.xlsx
 /result_*.xlsx
+
+# Curated official experiment logs (new runtime logs remain ignored)
+!/experiments/manuscript_261003/raw/**/*.stat
+.ipynb_checkpoints/
