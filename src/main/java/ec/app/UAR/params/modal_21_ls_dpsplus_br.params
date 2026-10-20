@@ -1,0 +1,127 @@
+# 测试使用的参数
+
+# 父参数文件
+parent.0 = ../../../../../resources/ec/gp/koza/koza.params
+
+#
+jobs = 1
+
+# 状态
+state = ec.app.UAR.LSDPSBR.BREvolutionState
+# 评估器
+eval = ec.app.UAR.DPS.DPSNewEvaluator
+# 问题
+eval.problem = ec.app.UAR.LSDPSBR.BRProblem
+# GP数据类
+eval.problem.data = ec.app.UAR.DoubleData
+# 繁殖器
+breed = ec.app.UAR.CPS.CPSBreeder
+
+# 线程和种子
+evalthreads = 8
+breedthreads = 8
+seed.0 = 1
+seed.1 = 2
+seed.2 = 3
+seed.3 = 4
+seed.4 = 5
+seed.5 = 6
+seed.6 = 7
+seed.7 = 8
+
+# 种群数量，每个子种群的个数，物种，个体和适应度
+pop.subpops = 1
+pop.subpop.0.size = 240
+pop.subpop.0.species = ec.app.UAR.repair.RepairSpecies
+pop.subpop.0.species.ind = ec.app.UAR.DPS.DPSIndividual
+pop.subpop.0.species.fitness = ec.simple.SimpleFitness
+
+# 进化代数
+generations = 51
+
+# 设置树约束
+pop.subpop.0.species.ind.numtrees = 1
+pop.subpop.0.species.ind.tree.0 = ec.gp.GPTree
+pop.subpop.0.species.ind.tree.0.tc = tc0
+
+# 初始化设置
+gp.tc.0.init = ec.gp.koza.HalfBuilder
+gp.koza.half.min-depth = 2
+gp.koza.half.max-depth = 6
+gp.koza.half.growp = 0.5
+
+# 繁殖管道
+pop.subpop.0.species.pipe = ec.breed.MultiBreedingPipeline
+pop.subpop.0.species.pipe.generate-max = false
+
+# 管道设置
+pop.subpop.0.species.pipe.tries = 1
+pop.subpop.0.species.pipe.maxdepth = 8
+pop.subpop.0.species.pipe.toss = false
+
+# 子管道:
+pop.subpop.0.species.pipe.num-sources = 2
+pop.subpop.0.species.pipe.source.0 = ec.app.UAR.LSDPSBR.DPSBRCrossoverPipeline
+pop.subpop.0.species.pipe.source.0.prob = 0.9
+pop.subpop.0.species.pipe.source.1 = ec.app.UAR.repair.RepairMutationPipeline
+pop.subpop.0.species.pipe.source.1.prob = 0.1
+
+# 交叉算子设置
+gp.koza.xover.maxdepth = 8
+gp.koza.xover.tries = 1
+gp.koza.xover.source.0 = ec.app.UAR.lexicase.EpsilonLexicaseSelection
+gp.koza.xover.source.1 = ec.app.UAR.lexicase.EpsilonLexicaseSelection
+
+# 变异算子设置
+gp.koza.mutate.maxdepth = 8
+gp.koza.mutate.tries = 1
+gp.koza.mutate.source.0 = ec.app.UAR.lexicase.EpsilonLexicaseSelection
+
+# 输出
+stat = ec.app.UAR.NewStatistics
+stat.do-per-generation-description = false
+stat.file = $out.stat
+
+# 设置函数集合
+gp.fs.size = 1
+gp.fs.0 = ec.gp.GPFunctionSet
+gp.fs.0.name = f0
+gp.fs.0.size = 18
+# 设置终端集合
+gp.fs.0.func.0 = ec.app.UAR.terminals.CR
+gp.fs.0.func.0.nc = nc0
+gp.fs.0.func.1 = ec.app.UAR.terminals.i
+gp.fs.0.func.1.nc = nc0
+gp.fs.0.func.2 = ec.app.UAR.terminals.M
+gp.fs.0.func.2.nc = nc0
+gp.fs.0.func.3 = ec.app.UAR.terminals.N
+gp.fs.0.func.3.nc = nc0
+gp.fs.0.func.4 = ec.app.UAR.terminals.One
+gp.fs.0.func.4.nc = nc0
+gp.fs.0.func.5 = ec.app.UAR.terminals.PN
+gp.fs.0.func.5.nc = nc0
+gp.fs.0.func.6 = ec.app.UAR.terminals.PW
+gp.fs.0.func.6.nc = nc0
+gp.fs.0.func.7 = ec.app.UAR.terminals.RandomNumber
+gp.fs.0.func.7.nc = nc0
+gp.fs.0.func.8 = ec.app.UAR.terminals.Two
+gp.fs.0.func.8.nc = nc0
+gp.fs.0.func.9 = ec.app.UAR.terminals.V
+gp.fs.0.func.9.nc = nc0
+gp.fs.0.func.10 = ec.app.UAR.terminals.Zero
+gp.fs.0.func.10.nc = nc0
+# 设置函数集合
+gp.fs.0.func.11 = ec.app.UAR.functions.Add
+gp.fs.0.func.11.nc = nc2
+gp.fs.0.func.12 = ec.app.UAR.functions.Div
+gp.fs.0.func.12.nc = nc2
+gp.fs.0.func.13 = ec.app.UAR.functions.Max
+gp.fs.0.func.13.nc = nc2
+gp.fs.0.func.14 = ec.app.UAR.functions.Min
+gp.fs.0.func.14.nc = nc2
+gp.fs.0.func.15 = ec.app.UAR.functions.Mul
+gp.fs.0.func.15.nc = nc2
+gp.fs.0.func.16 = ec.app.UAR.functions.Sqrt
+gp.fs.0.func.16.nc = nc1
+gp.fs.0.func.17 = ec.app.UAR.functions.Sub
+gp.fs.0.func.17.nc = nc2

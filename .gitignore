@@ -1,0 +1,15 @@
+# Build and IDE files
+/target/
+/.idea/
+*.iml
+*.class
+# Runtime output and local credentials
+*.stat
+*.log
+*.lck
+gurobi.lic
+.env
+.env.*
+!/src/main/java/ec/app/UAR/util/rules.xlsx
+/results.xlsx
+/result_*.xlsx
